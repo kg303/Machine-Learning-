@@ -1,8 +1,4 @@
-The
-Basics:
 
-# Statistics in Python:
-# numpy is the package that is best suited to make calculations about data
 import numpy as np
 
 data = [15, 16, 18, 19, 22, 24, 29, 30, 34]
